@@ -35,6 +35,8 @@
 3. 📄 [**All Documents Viewer**](https://github.com/AttaMuhammad16/AllDocumentViewer)  
    A convenient app to view all document formats like PDF, Word, Excel, PPT, and more.
 
+4. 📄 [**Dukaan Calculator**](https://github.com/AttaMuhammad16/Dukaan-Calculator)
+   A tool for shopkeepers to manage sales, track expenses, and generate receipts in PDF format.
 
 
 
