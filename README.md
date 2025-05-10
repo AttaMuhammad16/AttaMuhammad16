@@ -13,7 +13,17 @@
 
 - 🤝 I’m looking for help with **Kotlin,Xml and Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AttaMuhammad16](https://github.com/AttaMuhammad16)
+
+## 🚀 My Projects
+
+### 👨‍💻 All of My Projects
+
+1. 💬 [**Chat App**](https://github.com/AttaMuhammad16/Chat-Sphere-App)  
+   A real-time messaging application with modern UI, push notifications, and Firebase backend.
+
+2. 📄 [**All Documents Viewer**](https://github.com/AttaMuhammad16/AllDocumentViewer)  
+   A convenient app to view all document formats like PDF, Word, Excel, PPT, and more.
+
 
 - 💬 Ask me about **Kotlin**
 
@@ -23,9 +33,6 @@
 
 - ⚡ Fun fact **I think i can solve any problem related to app development and make it optimize**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
