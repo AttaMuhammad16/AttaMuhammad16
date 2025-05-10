@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Android Projects**
 
-- 🤝 I’m looking for help with **Kotlin,Xml and Jetpack Compose**
+- 🤝 If you are looking for help with **Kotlin,Xml and Jetpack Compose** i am available.
 
 - 💬 Ask me about **Kotlin**
 
