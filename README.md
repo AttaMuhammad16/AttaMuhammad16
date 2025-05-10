@@ -13,18 +13,6 @@
 
 - 🤝 I’m looking for help with **Kotlin,Xml and Jetpack Compose**
 
-
-## 🚀 My Projects
-
-### 👨‍💻 All of My Projects
-
-1. 💬 [**Chat App**](https://github.com/AttaMuhammad16/Chat-Sphere-App)  
-   A real-time messaging application with modern UI, push notifications, and Firebase backend.
-
-2. 📄 [**All Documents Viewer**](https://github.com/AttaMuhammad16/AllDocumentViewer)  
-   A convenient app to view all document formats like PDF, Word, Excel, PPT, and more.
-
-
 - 💬 Ask me about **Kotlin**
 
 - 📫 How to reach me **atta1639916@gmail.com**
@@ -32,6 +20,22 @@
 - I am available for freelance, remote job and for contract base .
 
 - ⚡ Fun fact **I think i can solve any problem related to app development and make it optimize**
+
+
+## 🚀 My Projects
+
+## 👨‍💻 All of My Projects
+
+1. 💬 [**Chat App**](https://github.com/AttaMuhammad16/Chat-Sphere-App)  
+   A real-time messaging application with modern UI, push notifications, and Firebase backend.
+
+2. ⏱️ [**App Usage Tracker**](https://github.com/AttaMuhammad16/App-Usage-Tracker-Compose)  
+   Track how long each app is used and total daily usage — built with Jetpack Compose and a clean modern UI.
+
+3. 📄 [**All Documents Viewer**](https://github.com/AttaMuhammad16/AllDocumentViewer)  
+   A convenient app to view all document formats like PDF, Word, Excel, PPT, and more.
+
+
 
 
 <h3 align="left">Connect with me:</h3>
