@@ -38,6 +38,9 @@
 4. 📄 [**Dukaan Calculator**](https://github.com/AttaMuhammad16/Dukaan-Calculator)
    A tool for shopkeepers to manage sales, track expenses, and generate receipts in PDF format.
 
+5. 📄 [**Must Tools App**](https://github.com/AttaMuhammad16/MustTool)
+  Must Tools is an all-in-one utility Android app built with Kotlin and XML, designed to deliver a smooth and beautiful user experience. 
+
 
 
 <h3 align="left">Connect with me:</h3>
