@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **atta1639916@gmail.com**
 
+- **whatsapp wa.me/+923034805685**
+
 - I am available for freelance, remote job and for contract base .
 
 - ⚡ Fun fact **I think i can solve any problem related to app development and make it optimize**
