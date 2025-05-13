@@ -46,6 +46,9 @@
 6. 📄 [**Customer Taxi Booking App**](https://github.com/AttaMuhammad16/Customer-Taxi-Booking-)
   Welcome to the official Taxi Booking App for Customers – your smart and simple solution to find nearby registered drivers and book your ride instantly.
 
+7. 📄 [**Driver Taxi Booking App**](https://github.com/AttaMuhammad16/Driver-Taxi-Booking-App)
+  Welcome to the Driver Taxi Booking App – an efficient and smart solution for drivers to receive ride requests from nearby customers.
+
 
 
 <h3 align="left">Connect with me:</h3>
