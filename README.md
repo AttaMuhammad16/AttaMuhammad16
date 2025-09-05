@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **atta1639916@gmail.com**
 
-- **whatsapp wa.me/+923034805685**
+- <a href="whatsapp wa.me/+923252142414" target="_blank">Contact on whats-app for projects</a>
 
 - I am available for freelance, remote job and for contract base .
 
