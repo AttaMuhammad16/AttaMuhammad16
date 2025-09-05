@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **atta1639916@gmail.com**
 
--<a href="https://wa.me/923252142414" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-brightgreen?logo=whatsapp&logoColor=white" />
-</a>
+- <a href="https://wa.me/923252142414" target="_blank">
+     <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-brightgreen?logo=whatsapp&logoColor=white" />
+  </a>
 
 
 - I am available for freelance, remote job and for contract base .
