@@ -13,14 +13,12 @@
 
 - 🤝 If you are looking for help with **Kotlin,Xml and Jetpack Compose** i am available.
 
-- 💬 Ask me about **Kotlin**
+- 💬 Ask me about **Kotlin, Jetpack Compose, Java, HTML, CSS, and JavaScript**
 
-- 📫 How to reach me **atta1639916@gmail.com**
-
-- <a href="https://wa.me/923252142414" target="_blank">
-     <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-brightgreen?logo=whatsapp&logoColor=white" />
-  </a>
-
+- 📫 How to reach me:  
+  [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Contact-green?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/923252142414)  
+  [![Gmail Badge](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:atta1639916@gmail.com)  
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/atta-muhammad-787984267) 
 
 - I am available for freelance, remote job and for contract base .
 
