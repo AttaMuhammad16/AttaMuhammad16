@@ -1,70 +1,85 @@
 <h1 align="center">Hi 👋, I'm Atta Muhammad</h1>
-<h3 align="center">A passionate android app developer from pakistan</h3>
+<h3 align="center">🚀 Passionate Android Developer | Kotlin & Jetpack Compose Enthusiast | Open Source Contributor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=attamuhammad16&label=Profile%20views&color=0e75b6&style=flat" alt="attamuhammad16" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=attamuhammad16" alt="attamuhammad16" /></a> </p>
-
-- 🔭 I’m currently working on **Matrimonial App which cross 5k downloads in just 15 days**
-
-- 🌱 I’m currently learning **Jetpack Compose , NodJs, Mongo Db and Express**
-
-- 👯 I’m looking to collaborate on **Android Projects**
-
-- 🤝 If you are looking for help with **Kotlin,Xml and Jetpack Compose** i am available.
-
-- 💬 Ask me about **Kotlin, Jetpack Compose, Java, HTML, CSS, and JavaScript**
-
-- 📫 How to reach me:
-  
-  [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Contact-green?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/923252142414)  
-  [![Gmail Badge](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:atta1639916@gmail.com)  
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/atta-muhammad-787984267) 
-
-- I am available for freelance, remote job and for contract base .
-
-- ⚡ Fun fact **I think i can solve any problem related to app development and make it optimize**
-
-
-## 🚀 My Projects
-
-## 👨‍💻 All of My Projects
-
-1. 💬 [**Chat App**](https://github.com/AttaMuhammad16/Chat-Sphere-App)  
-   A real-time messaging application with modern UI, push notifications, and Firebase backend.
-
-2. ⏱️ [**App Usage Tracker**](https://github.com/AttaMuhammad16/App-Usage-Tracker-Compose)  
-   Track how long each app is used and total daily usage — built with Jetpack Compose and a clean modern UI.
-
-3. 📄 [**All Documents Viewer**](https://github.com/AttaMuhammad16/AllDocumentViewer)  
-   A convenient app to view all document formats like PDF, Word, Excel, PPT, and more.
-
-4. 📄 [**Dukaan Calculator**](https://github.com/AttaMuhammad16/Dukaan-Calculator)
-   A tool for shopkeepers to manage sales, track expenses, and generate receipts in PDF format.
-
-5. 📄 [**Must Tools App**](https://github.com/AttaMuhammad16/MustTool)
-  Must Tools is an all-in-one utility Android app built with Kotlin and XML, designed to deliver a smooth and beautiful user experience.
-
-6. 📄 [**Customer Taxi Booking App**](https://github.com/AttaMuhammad16/Customer-Taxi-Booking-)
-  Welcome to the official Taxi Booking App for Customers – your smart and simple solution to find nearby registered drivers and book your ride instantly.
-
-7. 📄 [**Driver Taxi Booking App**](https://github.com/AttaMuhammad16/Driver-Taxi-Booking-App)
-  Welcome to the Driver Taxi Booking App – an efficient and smart solution for drivers to receive ride requests from nearby customers.
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/atta muhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="atta muhammad" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/atta-muhammad-787984267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atta muhammad" height="30" width="40" /></a>
-<a href="https://www.facebook.com/share/1Fdk3jNBBb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atta muhammad" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=attamuhammad16&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> 
+  <img src="https://img.shields.io/github/followers/attamuhammad16?label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/attamuhammad16?label=Stars" alt="Stars" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=attamuhammad16&show_icons=true&locale=en&layout=compact" alt="attamuhammad16" /></p>
+## 🧑‍💻 About Me  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=attamuhammad16&show_icons=true&locale=en" alt="attamuhammad16" /></p>
+- 🔭 Currently working on: **Matrimonial App** (5K+ downloads in 15 days 🚀)  
+- 🌱 Learning: **Jetpack Compose, Node.js, MongoDB, Express**  
+- 👯 Open to collaborate on: **Android Projects & Startups**  
+- 🤝 Available for **Freelance, Remote & Contract Roles**  
+- 💬 Ask me about: **Kotlin, Jetpack Compose, Java, Firebase, and Clean Architecture**  
+- ⚡ Fun fact: *I believe every problem has an optimized solution in code.*  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=attamuhammad16&" alt="attamuhammad16" /></p>
+---
+
+## 📬 Connect With Me  
+
+<p align="center">
+  <a href="https://wa.me/923252142414"><img src="https://img.shields.io/badge/WhatsApp-Contact-green?logo=whatsapp&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:atta1639916@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/atta-muhammad-787984267"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.facebook.com/share/1Fdk3jNBBb"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" /></a>
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+1. 💬 [**Chat Sphere App**](https://github.com/AttaMuhammad16/Chat-Sphere-App)  
+   Real-time messaging with Firebase backend, push notifications, and modern UI.  
+
+2. ⏱️ [**App Usage Tracker**](https://github.com/AttaMuhammad16/App-Usage-Tracker-Compose)  
+   Track app usage time daily using **Jetpack Compose** and Material 3.  
+
+3. 📄 [**All Documents Viewer**](https://github.com/AttaMuhammad16/AllDocumentViewer)  
+   View PDFs, Word, Excel, and PPT in one app.  
+
+4. 🛒 [**Dukaan Calculator**](https://github.com/AttaMuhammad16/Dukaan-Calculator)  
+   Shop management tool with receipts in **PDF** format.  
+
+5. 🛠️ [**Must Tools App**](https://github.com/AttaMuhammad16/MustTool)  
+   All-in-one utility app with beautiful UI & optimized performance.  
+
+6. 🚖 [**Customer Taxi Booking App**](https://github.com/AttaMuhammad16/Customer-Taxi-Booking-)  
+   Book rides instantly with nearby drivers.  
+
+7. 🚖 [**Driver Taxi Booking App**](https://github.com/AttaMuhammad16/Driver-Taxi-Booking-App)  
+   Driver app to manage rides from customers.  
+
+---
+
+## 🛠️ Languages & Tools  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=attamuhammad16&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=attamuhammad16&theme=tokyonight" alt="Streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attamuhammad16&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+✨ *If you like my work, consider giving ⭐ to my repositories!*  
