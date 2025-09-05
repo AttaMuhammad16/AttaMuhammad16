@@ -15,7 +15,8 @@
 
 - 💬 Ask me about **Kotlin, Jetpack Compose, Java, HTML, CSS, and JavaScript**
 
-- 📫 How to reach me:  
+- 📫 How to reach me:
+  
   [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Contact-green?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/923252142414)  
   [![Gmail Badge](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:atta1639916@gmail.com)  
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/atta-muhammad-787984267) 
